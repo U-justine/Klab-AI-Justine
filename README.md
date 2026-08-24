@@ -348,9 +348,9 @@ For assignments, I keep the assignment work separate from daily learning until i
 | Git & GitHub              | ✅      |
 | NumPy                     | ✅      |
 | Pandas                    | ✅      |
-| Data Wrangling            | 🔄     |
-| Exploratory Data Analysis | 🔄     |
-| Data Visualization        | 🔄     |
+| Data Wrangling            | ✅     |
+| Exploratory Data Analysis | ✅     |
+| Data Visualization        | ✅     |
 | Machine Learning          | ⏳      |
 | Model Evaluation          | ⏳      |
 | Artificial Intelligence   | ⏳      |
