@@ -66,7 +66,7 @@ Real-World Projects
 
 **Tools**
 
-`VS Code` `Jupyter Notebook` `Git` `GitHub` `Kaggle`
+`VS Code` `Jupyter Notebook` `Git` `GitHub` `Kaggle` `hugging face` 
 
 ---
 
