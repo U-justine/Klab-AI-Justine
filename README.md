@@ -79,7 +79,7 @@ Klab-AI-Justine/
 ├── day 2/              → Daily learning & practice
 ├── day 3/              → Daily learning & practice
 │
-├── Assignments/        → Assignment notebooks
+├── notebooks/        → Assignment notebooks
 │
 ├── data/
 │   ├── raw/            → Original datasets
