@@ -75,9 +75,7 @@ Real-World Projects
 ```text
 Klab-AI-Justine/
 │
-├── day 1/              → Daily learning & practice
-├── day 2/              → Daily learning & practice
-├── day 3/              → Daily learning & practice
+├── Daily learnings & practice
 │
 ├── notebooks/        → Assignment notebooks
 │
