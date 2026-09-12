@@ -5,7 +5,9 @@
 **Best Leaderboard Score:** 0.81014  
 **Project Target:** 0.80  
 **Result:** Above target by +0.01014
+
 **Best Results logs:** https://www.kaggle.com/code/justineumutoni/spaceshiptitanic-justineumutoni-ipynb/log?scriptVersionId=349189357
+
 **Code link:** https://www.kaggle.com/code/justineumutoni/spaceshiptitanic-justineumutoni-ipynb/edit
 
 ---
